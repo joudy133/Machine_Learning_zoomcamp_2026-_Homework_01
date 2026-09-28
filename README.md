@@ -1,6 +1,6 @@
 # Machine_Learning_zoomcamp_2026-_Homework_01
 
-This repository contains my solution for Homework 01 of the "Machine Learning Zoomcamp 2026" (https://github.com/DataTalksClub/machine-learning-zoomcamp).
+This repository contains my solution for [Homework 01](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/cohorts/2026/homework/01-intro/homework.md) of the [Machine Learning Zoomcamp 2026](https://github.com/DataTalksClub/machine-learning-zoomcamp).
 
 # About This Project
 
@@ -9,7 +9,7 @@ The first homework focuses on building a foundation in Python, NumPy, and Pandas
 
 # Notebook
 
-📓 "View HW01.ipynb" (https://github.com/joudy133/Machine_Learning_zoomcamp_2026-_Homework_01/blob/main/HW01.ipynb)
+[HW01.ipynb](https://github.com/joudy133/Machine_Learning_zoomcamp_2026-_Homework_01/blob/main/HW01.ipynb)
 
 # Technologies
 
@@ -20,4 +20,4 @@ The first homework focuses on building a foundation in Python, NumPy, and Pandas
 
 # Course
 Machine Learning Zoomcamp 2026
-by "DataTalks.Club" (https://github.com/DataTalksClub/machine-learning-zoomcamp)
+by [DataTalks.Club](https://github.com/DataTalksClub/machine-learning-zoomcamp)
